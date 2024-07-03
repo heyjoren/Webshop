@@ -1,0 +1,60 @@
+.welkom_klein{
+    text-align: center;
+    font-size: 25px;
+    color: #8EB2D9;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+/*Dit is om de img en tekst links in box 1 te houden.*/
+.box1_1::after{
+    content: "";
+	display: block;
+	clear: both;    
+    }
+
+.box1_1{
+    margin-top: 20px;
+}
+
+/*de stijl van de afbeelding links*/
+.logo_img_links{
+    float: left;
+    width: 500PX;
+}
+
+.txt_links{
+    float: left;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+/*Dit is om de img en tekst in box 1 rechts te houden.*/
+.box1_2::after{
+    content: "";
+	display: block;
+	clear: both;    
+    }
+
+.box1_2{
+    margin-top: 20px;
+}
+
+/*de stijl van de afbeelding rechts*/
+.logo_img_rechts{
+    float: right;
+    width: 250PX;
+    border-radius: 15px;
+}
+
+.logo_img_rechts::after{
+    content: "";
+	display: block;
+	clear: both;    
+    }
+
+.txt_rechts{
+    float: right;
+    margin: 25px;
+    margin-left: 0px;
+}

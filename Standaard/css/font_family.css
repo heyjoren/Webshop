@@ -1,0 +1,27 @@
+/*Stijl van een nieuw lettertype*/
+
+  @font-face {
+	font-family: Bruno Ace SC;
+	src: url(font-family/Bruno_Ace_SC/BrunoAceSC-Regular.ttf);
+ }
+ 
+  @font-face {
+	 font-family: Bruno Ace Regular;
+	 src: url(font-family/Bruno_Ace_Regular/Bruno\ Ace\ Regular.ttf);
+  }
+
+  @font-face {
+	font-family: family-font;
+	src: url(font-family/family-font/Family-mL6Kv.otf);
+ }
+
+ @font-face {
+	font-family: youth-touch-font;
+	src: url(font-family/youth-touch-font/YouthTouchDemoRegular-4VwY.ttf);
+ }
+
+ /*wordt gebruikt bij de tekst welkom op mijn site op de pagina Enchanrted Vases (HOME)*/
+ @font-face {
+	font-family: Young_Seriff;
+	src: url(font-family/Young_Serif/YoungSerif-Regular.ttf);
+ }

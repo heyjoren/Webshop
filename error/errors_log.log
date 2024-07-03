@@ -1,0 +1,27 @@
+Error logged: op2023-12-27 10-00-54 - [ 0 ]: We hebben niet zo veel in stock in file C:\Users\HEYVA\Documents\School_jaar_2023_-_2024\PHP_&_MySQL\Praktijk\Project\Winkelmand.php op lijn 119
+Error logged: op2023-12-27 10-08-07 - [ 0 ]: We hebben niet zo veel in stock in file C:\Users\HEYVA\Documents\School_jaar_2023_-_2024\PHP_&_MySQL\Praktijk\Project\Winkelmand.php op lijn 119
+Error logged: op2023-12-27 10-11-26 - [ 0 ]: We hebben niet zo veel in stock in file C:\Users\HEYVA\Documents\School_jaar_2023_-_2024\PHP_&_MySQL\Praktijk\Project\Winkelmand.php op lijn 119
+Error logged: op2023-12-27 10-24-34 - [ 0 ]: We hebben niet zo veel in stock in file C:\Users\HEYVA\Documents\School_jaar_2023_-_2024\PHP_&_MySQL\Praktijk\Project\Winkelmand.php op lijn 119
+Error logged: op2023-12-27 10-24-44 - [ 0 ]: We hebben niet zo veel in stock in file C:\Users\HEYVA\Documents\School_jaar_2023_-_2024\PHP_&_MySQL\Praktijk\Project\Winkelmand.php op lijn 119
+Error logged: op2023-12-27 10-26-09 - [ 0 ]: Using $this when not in object context in file C:\Users\HEYVA\Documents\School_jaar_2023_-_2024\PHP_&_MySQL\Praktijk\Project\Winkelmand.php op lijn 128
+Error logged: op2023-12-27 10-26-26 - [ 0 ]: We hebben niet zo veel in stock in file C:\Users\HEYVA\Documents\School_jaar_2023_-_2024\PHP_&_MySQL\Praktijk\Project\Winkelmand.php op lijn 119
+Error logged: op2023-12-27 10-28-14 - [ 0 ]: We hebben niet zo veel in stock in file C:\Users\HEYVA\Documents\School_jaar_2023_-_2024\PHP_&_MySQL\Praktijk\Project\Winkelmand.php op lijn 119
+Error logged: op2023-12-27 10-29-30 - [ 0 ]: We hebben niet zo veel in stock in file C:\Users\HEYVA\Documents\School_jaar_2023_-_2024\PHP_&_MySQL\Praktijk\Project\Winkelmand.php op lijn 119
+Error logged: op2023-12-27 10-30-24 - [ 0 ]: We hebben niet zo veel in stock in file C:\Users\HEYVA\Documents\School_jaar_2023_-_2024\PHP_&_MySQL\Praktijk\Project\Winkelmand.php op lijn 119
+Error logged: op2023-12-27 10-30-56 - [ 0 ]: We hebben niet zo veel in stock in file C:\Users\HEYVA\Documents\School_jaar_2023_-_2024\PHP_&_MySQL\Praktijk\Project\Winkelmand.php op lijn 119
+Error logged: op2023-12-27 10-32-09 - [ 0 ]: We hebben niet zo veel in stock in file C:\Users\HEYVA\Documents\School_jaar_2023_-_2024\PHP_&_MySQL\Praktijk\Project\Winkelmand.php op lijn 119
+Error logged: op2023-12-27 10-32-38 - [ 0 ]: We hebben niet zo veel in stock in file C:\Users\HEYVA\Documents\School_jaar_2023_-_2024\PHP_&_MySQL\Praktijk\Project\Winkelmand.php op lijn 119
+Error logged: op2023-12-27 10-33-59 - [ 0 ]: We hebben niet zo veel in stock in file C:\Users\HEYVA\Documents\School_jaar_2023_-_2024\PHP_&_MySQL\Praktijk\Project\Winkelmand.php op lijn 119
+Error logged: op2023-12-27 10-34-24 - [ 0 ]: We hebben niet zo veel in stock in file C:\Users\HEYVA\Documents\School_jaar_2023_-_2024\PHP_&_MySQL\Praktijk\Project\Winkelmand.php op lijn 119
+Error logged: op2023-12-27 10-38-15 - [ 0 ]: We hebben niet zo veel in stock in file C:\Users\HEYVA\Documents\School_jaar_2023_-_2024\PHP_&_MySQL\Praktijk\Project\Winkelmand.php op lijn 119
+Error logged: op2023-12-27 10-39-27 - [ 0 ]: We hebben niet zo veel in stock in file C:\Users\HEYVA\Documents\School_jaar_2023_-_2024\PHP_&_MySQL\Praktijk\Project\Winkelmand.php op lijn 119
+Error logged: op2023-12-27 10-39-39 - [ 0 ]: We hebben niet zo veel in stock in file C:\Users\HEYVA\Documents\School_jaar_2023_-_2024\PHP_&_MySQL\Praktijk\Project\Winkelmand.php op lijn 119
+Error logged: op2023-12-27 10-40-43 - [ 0 ]: We hebben niet zo veel in stock in file C:\Users\HEYVA\Documents\School_jaar_2023_-_2024\PHP_&_MySQL\Praktijk\Project\Winkelmand.php op lijn 119
+Error logged: op2023-12-27 10-41-42 - [ 0 ]: We hebben niet zo veel in stock in file C:\Users\HEYVA\Documents\School_jaar_2023_-_2024\PHP_&_MySQL\Praktijk\Project\Winkelmand.php op lijn 119
+Error logged: op2023-12-27 10-42-14 - [ 0 ]: We hebben niet zo veel in stock in file C:\Users\HEYVA\Documents\School_jaar_2023_-_2024\PHP_&_MySQL\Praktijk\Project\Winkelmand.php op lijn 119
+Error logged: op2023-12-27 10-42-25 - [ 0 ]: We hebben niet zo veel in stock in file C:\Users\HEYVA\Documents\School_jaar_2023_-_2024\PHP_&_MySQL\Praktijk\Project\Winkelmand.php op lijn 119
+Error logged: op2023-12-27 16-23-46 - [ 0 ]: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in file C:\Users\HEYVA\Documents\School_jaar_2023_-_2024\PHP_&_MySQL\Praktijk\Project\Mijn_account.php op lijn 463
+Error logged: op2023-12-27 16-47-10 - [ 0 ]: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in file C:\Users\HEYVA\Documents\School_jaar_2023_-_2024\PHP_&_MySQL\Praktijk\Project\Mijn_account.php op lijn 463
+Error logged: op2023-12-27 18-02-40 - [ 0 ]: email of wachtwoord onjuist in file C:\Users\HEYVA\Documents\School_jaar_2023_-_2024\PHP_&_MySQL\Praktijk\Project\Mijn_account_sub_page\login.php op lijn 41
+Error logged: op2023-12-27 18-04-05 - [ 0 ]: email of wachtwoord onjuist in file C:\Users\HEYVA\Documents\School_jaar_2023_-_2024\PHP_&_MySQL\Praktijk\Project\Mijn_account_sub_page\login.php op lijn 41
+Error logged: op2023-12-27 18-07-03 - [ 0 ]: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in file C:\Users\HEYVA\Documents\School_jaar_2023_-_2024\PHP_&_MySQL\Praktijk\Project\Mijn_account.php op lijn 463

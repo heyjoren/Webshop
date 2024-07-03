@@ -1,0 +1,169 @@
+/*Algemeene stijl*/
+body{
+	font-family:Arial
+  }
+
+html{
+    background-color: #F2EBDC;
+}
+
+/*---------------------------------------------------------------------------------------*/
+/*Stijl van de folledige pagina*/
+.wrapper{
+	min-width:700px;
+	margin:0px auto 0px auto;
+}
+/*---------------------------------------------------------------------------------------*/
+/*Stijl van de header*/
+header{
+/*background-color: #1D594E;*/
+background-color: #F5D6CA;
+}
+
+/*om de img in de header te zetten*/
+header::after{
+	content:"";
+	display: block;
+	clear: both;
+}
+
+.logo{
+	width: 240px;
+	float:left;
+    margin: 10px;
+    margin-left: 42%;
+}
+
+/*---------------------------------------------------------------------------------------*/
+/*De stijl van de navigatie bar*/
+
+/*De kleur van de navigatie bar*/
+nav{
+    background-color: #D9B2A9;
+	position: sticky;
+	top: 0;
+	z-index: 100;
+}
+
+/*Om ze naast elkaar te zetten*/
+nav li{
+    float: left;
+    width: 200px;
+}
+
+/*Dit is voor de padding rechts*/
+nav>ul>li:first-child {					
+	padding-left: 5%;
+}
+
+
+/* Zet de nav nav in te kleuren */
+nav ul:after {
+	content: "";
+	display: block;
+	clear: both;
+}
+
+/* stijl van de tekst*/
+nav a {
+	display:block;
+	color: #556573;
+	text-decoration: none;
+	text-align:center;
+	padding: 10px 15px;
+}
+
+/*Dit is voor de padding rechts*/
+.nav_rechts {					
+	padding-right: 5%;
+}
+
+/*---------------------*/
+/*de stijl van boxen met een icoontje*/
+.navl{
+	float: right;
+	text-align:center;
+}
+
+/*de stijl van het icontje*/
+.icon_nav{
+	width: 20px;
+	float: left;
+	margin-top: -3px;
+	margin-left: 15px;
+	margin-right: -37px;
+}
+
+/*de stijl van de tekst bij het icontje*/
+.icon_p{
+	display:none;
+	color: #556573;
+	text-decoration: none;
+}
+
+/*de stijl van de counter getal bij het icontje*/
+.counter{
+	float: left;
+	font-weight: bold;
+}
+
+.navl:hover .icon_p{
+	display: block;
+}
+
+/*---------------------*/
+/*de extra stijl van de owner bar*/
+
+/* verberg de 2de laag */
+nav li ul {
+	position: absolute;
+	width: 200px;
+	display: none;
+}
+
+/* geef de 2de laag als je er over hovert */
+nav li:hover ul {
+	display: block;
+	background-color: #D9B2A9;
+
+}
+
+.nav2{
+	border-top: solid 2px #F2EBDC;;
+}
+
+/*---------------------------------------------------------------------------------------*/
+
+/*de stijl van box 1*/
+/*de algemeene stijl van box 1*/
+.box1{
+    padding: 50px;
+}
+
+/*Dit is om de img in box 1 te houden.*/
+.box1::after{
+    content: "";
+	display: block;
+	clear: both;    
+    }
+
+	/*de stijl van de hoofding*/
+	.welkom{
+		text-align: center;
+		font-size: 75px;
+		color: #8EB2D9;
+		font-family: Young_Seriff;
+		padding-bottom: 10px;
+	}
+	
+
+/*---------------------------------------------------------------------------------------*/
+
+/* Style the footer */
+footer {
+	padding: 20px;
+	text-align: center;
+	color: #556573;
+    background-color: #D9B2A9;
+	padding-top: 20px;
+}

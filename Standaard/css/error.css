@@ -1,0 +1,45 @@
+/*---------------------------------------------------------------------------------------*/
+/*de stijl van de error kader*/
+
+.alert::after{
+	content:"";
+	display: block;
+	clear: both;
+}
+
+.kruis{
+    font-size: 16px;
+    float: right;
+    margin-top: 10px;
+    margin-right: 10px;
+    background-color: white;
+    color: red;
+    border: none;
+}
+
+.kruis:hover{
+    background-color: #E6E6E6;
+}
+
+.error{
+    /* display: none; */
+    position: absolute;
+    color: white;
+    border: solid black 5px;
+    background-color: #39253a;
+    text-align: center;
+    font-weight: 100;
+
+    width: 550px;
+    height: 500px;
+
+    top: 35%;
+    left: 35%;
+}
+
+#errormsg{
+    font-size: 25px;
+    color: #8EB2D9;
+	font-family: Young_Seriff;
+    margin-top: 50px;
+}

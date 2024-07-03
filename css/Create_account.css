@@ -1,0 +1,147 @@
+.middel{
+    text-align: left;
+    border: 2px solid #D9B2A9;
+    padding-left: 30%
+}
+
+.invoer{
+    width: 500px;
+    margin: 5px 0px;
+}
+
+/* #psswd{
+    background-image: url(../img/Icoon/psswd_zichtbaar_blanko_onzichtbaar.png);
+} */
+
+/*---------------------------------------------------------------------------------------*/
+/*Dit is de stijl van het invul gedeelte box 1*/
+
+.box1{
+    margin: 25px;
+}
+
+.velden{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.input1{
+    width: 500px;
+    height: 20px;
+    padding-right: 5px;
+    margin-left: 56px;
+}
+
+.input2{
+    width: 500px;
+    height: 20px;
+    padding-left: 5px;
+    margin-left: 43px;
+}
+
+.input3{
+    width: 500px;
+    height: 20px;
+    padding-left: 5px;
+    margin-left: 90px;
+}
+
+.input4{
+    width: 500px;
+    height: 20px;
+    padding-left: 5px;
+    margin-left: 10px;
+}
+
+.input5{
+    width: 500px;
+    height: 20px;
+    padding-left: 5px;
+    margin-left: 40px;
+}
+
+.radio{
+    margin-left: 270px;
+    margin-bottom: 10px;
+}
+
+input[type=text]:focus{
+    border: 3px solid black;
+}
+
+.input4:focus{
+    border: 3px solid black;
+}
+
+.input2:focus{
+    border: 3px solid black;
+}
+
+.input3:focus{
+    border: 3px solid black;
+}
+
+.input4:focus{
+    border: 3px solid black;
+}
+
+.input5:focus{
+    border: 3px solid black;
+}
+
+.button{
+    margin-top: 50px;
+    margin-left: 280px;
+}
+
+/*---------------------------------------------------------------------------------------*/
+/*algemeene stijl allert*/
+.alert::after{
+	content:"";
+	display: block;
+	clear: both;
+}
+
+.kruis{
+    font-size: 16px;
+    float: right;
+    margin-top: 10px;
+    margin-right: 10px;
+    background-color: white;
+    color: red;
+    border: none;
+}
+
+.kruis:hover{
+    background-color: #E6E6E6;
+}
+
+.tekst1{
+    padding-top: 60px;
+    padding-bottom: 10px;
+}
+
+.tekst3{
+    padding-bottom: 50px;
+}
+
+/*---------------------------------------------------------------------------------------*/
+/*stijl allert naam verkeerd*/
+
+.alert{
+    text-align: center;
+    background-color: #39253a;
+    color: white;
+    width: 50%;
+    position:absolute;
+    border:solid black 5px;
+    display: none;
+
+
+    width:300px;
+    height:150px;
+
+    top:42%;
+    left:40%;
+
+}

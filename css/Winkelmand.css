@@ -1,0 +1,127 @@
+/*---------------------------------------------------------------------------------------*/
+/*de stijl van de producten*/
+
+.box_product{
+    border: solid 2px #D9B2A9;
+    width: 100% ;
+    margin-top: 20px ;
+    display: flex;
+    align-items: center;
+}
+
+.afbeelding_porduct{
+    margin-left: 75px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    height: 250px;
+    width: 145px;
+}
+
+.product_text{
+    margin-left: 75px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.product{
+    padding-left: 75px;
+}
+
+#voorraad{
+    margin-top: 20px;
+    padding-left: 75px;
+}
+
+.form{
+    padding-left: 75px;
+}
+
+input[type=number]{
+    width: 50px;
+    margin-left: 25px;
+}
+
+input[type=submit]{
+    color: #8EB2D9;
+    font-weight: bold;
+    margin-left: 25px;
+}
+
+#verwijder{
+    margin-left: 150px;
+}
+
+.totaalprijs{
+    margin-top: 20px;
+    text-align: center;
+}
+
+#bestellen{
+    margin-top: 10px;
+    color: #8EB2D9;
+    font-weight: bold;
+}
+
+/*---------------------------------------------------------------------------------------*/
+/*de stijl van de bestell kader*/
+
+.alert::after{
+	content:"";
+	display: block;
+	clear: both;
+}
+
+.kruis{
+    font-size: 16px;
+    float: right;
+    margin-top: 10px;
+    margin-right: 10px;
+    background-color: white;
+    color: red;
+    border: none;
+}
+
+.kruis:hover{
+    background-color: #E6E6E6;
+}
+
+.bestel_popup{
+    display: none;
+    position: absolute;
+    color: white;
+    border: solid black 5px;
+    background-color: #39253a;
+    text-align: center;
+
+    width: 550px;
+    height: 500px;
+
+    /* top: 42%; */
+    top: 35%;
+    left: 35%;
+}
+
+h2{
+    margin-top: 50px;
+    text-align: center;
+	font-size: 50px;
+	color: #8EB2D9;
+	font-family: Young_Seriff;
+	padding-bottom: 50px;
+}
+
+.bedankt{
+    display: none;
+    position: absolute;
+    color: white;
+    border: solid black 5px;
+    background-color: #39253a;
+    text-align: center;
+
+    width: 550px;
+    height: 500px;
+
+    /* top: 42%; */
+    top: 35%;
+    left: 35%;
+}

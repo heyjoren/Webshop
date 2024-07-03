@@ -1,0 +1,34 @@
+/*---------------------------------------------------------------------------------------*/
+/*Stijl van de tabel*/
+table{
+    width: 100%;
+}
+
+tr {
+    border-bottom: 2px solid #D9B2A9;
+    border-collapse: collapse;
+  }
+
+td:not(:last-child), th:not(:last-child){
+    border-right: 2px solid #D9B2A9;
+    border-collapse: collapse;
+}
+
+td, th{
+    text-align: center;
+    padding: 10px 0px;
+}
+
+/*---------------------*/
+/*de stijl van de knoppen*/
+input[type=submit]{
+    color: #8EB2D9;
+    font-weight: bold;
+}
+
+/*---------------------------------------------------------------------------------------*/
+/*Stijl van box1_2*/
+
+.box1_2{
+    text-align: center;
+}

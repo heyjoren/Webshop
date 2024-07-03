@@ -1,0 +1,14 @@
+.middel{
+    text-align: center;
+    border: 2px solid #D9B2A9;
+}
+
+.invoer{
+    width: 500px;
+    margin: 5px 0px;
+}
+
+#login{
+    color: #8EB2D9;
+    font-weight: bold;
+}
